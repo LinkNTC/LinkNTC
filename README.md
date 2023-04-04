@@ -2,6 +2,7 @@
 
 ##### Sobre o Alexandre
 Estudante de Análise e Desenvolvimento de Sistemas, iniciante na programação, experiência com JS, Python, HTML, React, CSS.
+
 Apenas o básico nas linguagens acima, nada muito complexo.
 
 <!--
